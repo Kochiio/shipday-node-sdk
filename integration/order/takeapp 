@@ -1,0 +1,2 @@
+curl --request GET \
+  --url 'https://take.app/api/platform/me?api_key=cm6y1qzi60009lmwtj9kbo4hn'
